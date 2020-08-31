@@ -1,0 +1,46 @@
+.R1{
+    text-align: center;
+    font-family:inherit ;
+    font-style: italic;
+    font-size:60px ;
+    text-decoration: underline;
+}
+.R2{
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+}
+.R3{
+    text-align: center;
+    padding-top: 85px;
+    font-size:28px ;
+}
+body{
+    background-color: white;
+}
+.R4{
+    text-align: center;
+    font-size:40px ;
+    padding-top: 45px;
+    color: red;
+}
+.p1{
+    text-align: center;
+    font-size:22px ;
+}
+
+.p2{
+    color: green;
+    text-align: center;
+    font-size: 22px;
+}
+.p3{
+    text-align: center;
+    padding-top: 45px;
+    font-size:40px;
+    color:red;
+}
+.p4{
+    text-align: center;
+    padding-top: 60px;
+}
